@@ -1,3 +1,9 @@
+---
+title: "SSH trong Windows"
+tags: 'sysadmin'
+date: '2019-01-07'
+
+---
 
 Một trong những điều ức chế của khi làm mấy việc dạng sysadmin trong windows là `ssh`, đặc biệt khi bạn dùng laptop chạy windows, và manage một đống server chạy linux. 
 May thay, từ Win 10, đội của anh Bill đã về-với-chính-đạo khi [hỗ trợ OpenSSH](https://quantrimang.com/cach-cai-dat-openssh-tren-windows-10-145183) 
