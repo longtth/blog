@@ -1,4 +1,5 @@
 ---
+title: "Class method của Ruby trong C#"
 tags: 'C#,'
 date: '2018-06-19'
 
