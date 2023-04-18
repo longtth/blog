@@ -1,8 +1,7 @@
 ---
-title: "Class method của Ruby trong C#"
-tags: 'C#,'
-date: '2018-06-19'
-
+title: Class method của Ruby trong C#
+date: 2018-06-19 00:00:00 Z
+tags: C#,
 ---
 
 Vì đọc  [bài này](http://localhost:4000/1)  nên tự nhiên nghĩ đến static method (class method) & normal method (instance method) trong C#. Vậy nên viết cái này  

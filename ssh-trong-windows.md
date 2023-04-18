@@ -1,8 +1,7 @@
 ---
-title: "SSH trong Windows"
-tags: 'sysadmin'
-date: '2019-01-07'
-
+title: SSH trong Windows
+date: 2019-01-07 00:00:00 Z
+tags: sysadmin
 ---
 
 Một trong những điều ức chế của khi làm mấy việc dạng sysadmin trong windows là `ssh`, đặc biệt khi bạn dùng laptop chạy windows, và manage một đống server chạy linux. 

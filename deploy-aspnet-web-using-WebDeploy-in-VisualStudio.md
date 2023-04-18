@@ -1,7 +1,6 @@
 ---
 title: Deploy asp.net website bằng WebDeploy trong Visual Studio 2017
 tags: C#,
-
 ---
 
 Bên đội dev web bằng PHP (Wordpress) các thứ thì thường dùng FTP (FTPS/SFTP) để deploy web,  [asp.net](http://asp.net/)  web cũng có thể deploy bằng FTP được, tuy nhiên, với truyền thống  _eat your own s*_  của mình, các bạn Microsoft vẫn chế cho Visual Studio 1 phương thức “chính thống” để deploy web đó là  `Web Deploy`, ngoài việc deploy bằng cách “chép file” như các trình deploy trên nền FTP, WebDeploy còn hỗ trợ deploy trực tiếp lên SQL Server trong 1 click, tham khảo  [link này](http://localhost:4000/1)  để biết thêm chi tiết.
